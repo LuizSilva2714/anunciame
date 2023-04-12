@@ -36,7 +36,7 @@ function EventDescription() {
                         Além de tudo isso, também vamos tirar um bom tempo no domingo para ter aquele lazer merecido, com direito a piscina, futebol, jogos, brincadeiras, gincanas e muito mais!
                     </Typography>
                 </Grid>
-                <Grid item xs={12}>
+                <Grid item xl={3} lg={4} md={6} sm={12}>
                     <Typography variant="h3" fontFamily={'Alkatra, cursive'} align="center">
                         Um encontro com Cristo
                     </Typography>

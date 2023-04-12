@@ -37,6 +37,14 @@ function MainSection() {
                 RETORNO: dia 23 de Julho, às 19h (previsão de chegada)
                 </Typography>
             </Grid>
+            <Grid item xl={3} lg={4} md={6} sm={12}>
+            <Typography variant="h3" fontFamily={'Alkatra, cursive'} align="center">
+                    Valor
+                </Typography>
+                <Typography variant="h4" gutterBottom align="center" mt={1} fontFamily={'Teko, sans-serif'} fontWeight={'light'}>
+                O valor da inscrição é R$ 60, mas caso você tenha qualquer problema ou dificuldade, pode entrar em contato conosco!
+                </Typography>
+            </Grid>
         </Grid>
         </>
     );
