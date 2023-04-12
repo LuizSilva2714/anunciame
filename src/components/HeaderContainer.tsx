@@ -28,7 +28,7 @@ function HeaderContainer() {
                 ANUNCIA-ME VII
             </Typography>
             <Typography variant="h3" gutterBottom className="main-slogan" align="center" mt={1} fontFamily={'Qwigley, cursive'}>
-                "Porque Deus tanto amou o mundo que deu o seu Filho Unigênito, para que todo o que nele crer não pereça, mas tenha a vida eterna" (João 3:16)
+                "Pois este meu filho estava morto e voltou à vida; estava perdido e foi achado"
             </Typography>
             <InscriptionLink />
         </Container>
