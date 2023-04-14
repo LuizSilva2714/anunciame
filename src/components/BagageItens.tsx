@@ -98,7 +98,7 @@ function BagageItens() {
                 </Grid>
                 <Grid item xl={2} lg={2} md={3} sm={3}>
                     <Typography variant="h4" gutterBottom align="center" mt={1} fontFamily={'Teko, sans-serif'} fontWeight={'light'}>
-                        - Um coração aberto
+                        - Um coração aberto!
                     </Typography>
 
                 </Grid>
