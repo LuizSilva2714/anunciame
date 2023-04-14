@@ -24,7 +24,7 @@ function Contact() {
                     fontFamily: 'Teko, sans-serif',
                     textDecoration: 'none',
                     fontSize: 24,
-                    color: 'white'
+                    color: 'black'
                 }}>WhatsApp</a>
             </Grid>
             <Grid item xs={12} sm={12} md={6} lg={4} xl={4} textAlign={'center'}>
@@ -35,7 +35,7 @@ function Contact() {
                     fontFamily: 'Teko, sans-serif',
                     textDecoration: 'none',
                     fontSize: 24,
-                    color: 'white'
+                    color: 'black'
                 }}>E-mail</a>
             </Grid>
             <Grid item xs={12} sm={12} md={6} lg={4} xl={4} textAlign={'center'}>
@@ -45,8 +45,9 @@ function Contact() {
                 <a target="_blank" style={{
                     fontFamily: 'Teko, sans-serif',
                     textDecoration: 'none',
-                    fontSize: 24
-                }} href="https://wa.me/5511967189744">Telefone: (11) 96718-9744 (Luiz) /</a> <a target="_blank" href="https://wa.me/5511968190130" style={{fontFamily: 'Teko, sans-serif', textDecoration: 'none', fontSize: 24}}> (11) 96819-0130 (Alex)</a>
+                    fontSize: 24,
+                    color: 'black'
+                }} href="https://wa.me/5511967189744">Telefone: (11) 96718-9744 (Luiz) /</a> <a target="_blank" href="https://wa.me/5511968190130" style={{fontFamily: 'Teko, sans-serif', textDecoration: 'none', fontSize: 24, color: 'black'}}> (11) 96819-0130 (Alex)</a>
             </Grid>
         </Grid>
         <Typography variant="h3" mt={3} fontFamily={'Teko, sans-serif'} fontWeight={'medium'} align="center" mb={5}>

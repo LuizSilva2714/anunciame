@@ -24,7 +24,7 @@ function HeaderContainer() {
 
     return (
         <Container className={"header-container fade-in-from-top " + fadeClass}>
-            <Typography variant="h1" gutterBottom className="main-title" align="center" mt={4} fontFamily={'Teko, sans-serif'} fontWeight={'bold'}>
+            <Typography variant="h2" gutterBottom className="main-title" align="center" mt={4} fontFamily={'Teko, sans-serif'} fontWeight={'bold'}>
                 ANUNCIA-ME VII
             </Typography>
             <Typography variant="h3" gutterBottom className="main-slogan" align="center" mt={1} fontFamily={'Qwigley, cursive'}>

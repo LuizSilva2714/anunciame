@@ -44,6 +44,9 @@ function MainSection() {
                 <Typography variant="h4" gutterBottom align="center" mt={1} fontFamily={'Teko, sans-serif'} fontWeight={'light'}>
                 O valor da inscrição é R$ 60, mas caso você tenha qualquer problema ou dificuldade, pode entrar em contato conosco!
                 </Typography>
+                <Typography variant="h6" gutterBottom align="center" mt={1} fontFamily={'Teko, sans-serif'} fontWeight={'light'}>
+                Chave PIX: comunicacao@jupac.net
+                </Typography>
             </Grid>
         </Grid>
         </>
