@@ -8,7 +8,7 @@ function EventDescription() {
     return (
         <>
 
-            <Typography variant="h3" mt={3} fontFamily={'Teko, sans-serif'} fontWeight={'medium'} align="right">
+            <Typography variant="h3" mt={3} fontFamily={'Teko, sans-serif'} fontWeight={'medium'} align="right" maxWidth={'90%'}>
                 O que você vai viver no retiro:
             </Typography>
             <Grid container spacing={1} ml={1} mr={1} mt={3} maxWidth={'90%'}>

@@ -6,7 +6,7 @@ import './MainSection.css';
 function MainSection() {
     return(
         <>
-        <Typography variant="h3" mt={5} fontFamily={'Teko, sans-serif'} fontWeight={'medium'} align="left">
+        <Typography variant="h3" mt={5} fontFamily={'Teko, sans-serif'} fontWeight={'medium'} align="left" maxWidth={'90%'} pl={2}>
                 Informações principais
             </Typography>
         <Grid container spacing={5} ml={1} mr={1} mt={3} maxWidth={'90%'}>

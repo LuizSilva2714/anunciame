@@ -26,7 +26,7 @@ function BagageItens() {
     };
     return (
         <>
-            <Typography variant="h3" mt={3} fontFamily={'Teko, sans-serif'} fontWeight={'medium'} align="left">
+            <Typography variant="h3" mt={3} fontFamily={'Teko, sans-serif'} fontWeight={'medium'} align="left" maxWidth={'90%'} pl={2}>
                 O que levar:
             </Typography>
             <Grid container spacing={1} ml={1} mr={1} mt={3} maxWidth={'90%'}>

@@ -10,7 +10,7 @@ import InscriptionLink from "./InscriptionLink";
 function Contact() {
     return (
         <>
-        <Typography variant="h3" mt={3} fontFamily={'Teko, sans-serif'} fontWeight={'medium'} align="right" mb={5}>
+        <Typography variant="h3" mt={3} fontFamily={'Teko, sans-serif'} fontWeight={'medium'} align="right" mb={5} maxWidth={'90%'}>
                 Se ainda tiver dúvidas, entre em contato:
             </Typography>
         <Grid container spacing={2} style={{
