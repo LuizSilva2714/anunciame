@@ -23,7 +23,7 @@ function MainSection() {
                     Endereço
                 </Typography>
                 <Typography variant="h4" gutterBottom align="center" mt={1} fontFamily={'Teko, sans-serif'} fontWeight={'light'}>
-                Estr. da Quarta Divisão, 823 - Estância São Luís Suzano - SP (CEP: 08640-425)
+                Estr. da Quarta Divisão, 823 - Estância São Luís - Suzano - SP (CEP: 08640-425)
                 </Typography>
             </Grid>
             <Grid item xl={3} lg={4} md={6} sm={12}>
@@ -31,7 +31,7 @@ function MainSection() {
                     Saída e Retorno
                 </Typography>
                 <Typography variant="h4" gutterBottom align="center" mt={1} fontFamily={'Teko, sans-serif'} fontWeight={'light'}>
-                SAÍDA: dia 21 de Julho, às 19h, da Rua Roberto Correia, 338 - Jardim Sydney - SP (CEP: 02982-170)
+                SAÍDA: dia 21 de Julho, às 19h, da Rua Roberto Correia, 338 - Jardim Sydney - São Paulo - SP (CEP: 02982-170)
                 </Typography>
                 <Typography variant="h4" gutterBottom align="center" mt={1} fontFamily={'Teko, sans-serif'} fontWeight={'light'}>
                 RETORNO: dia 23 de Julho, às 19h (previsão de chegada)
