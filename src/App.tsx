@@ -1,24 +1,19 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
-import './styles/App.css'
-import HeaderContainer from './components/HeaderContainer'
-import MainSection from './components/MainSection'
-import EventDescription from './components/EventDescription'
-import BagageItens from './components/BagageItens'
-import Contact from './components/Contact'
+
+import { Routes, Route} from "react-router-dom";
+import InscricaoPage from './pages/InscricaoPage';
+import Homepage from "./pages/Homepage";
 
 function App() {
 
   return (
-    <div className="home">
-      <HeaderContainer />
-      <MainSection />
-      <EventDescription />
-      <BagageItens />
-      <Contact />
-    </div>
-  )
+    <>
+      <Routes>
+        <Route index element={<Homepage />} />
+        <Route path="/inscricao" element={<InscricaoPage />} />
+        <Route path="*" element={<Homepage />}/>
+      </Routes>
+    </>
+  );
 }
 
 export default App

@@ -1,8 +1,7 @@
 .header-container{
-    padding-left: 5%;
-    padding-right: 5%;
+  padding: 2rem 5%;
+  box-sizing: border-box;
 }
-
 .fade-in-from-top {
     opacity: 1;
     transform: translateY(20px);
