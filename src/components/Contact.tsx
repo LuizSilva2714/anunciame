@@ -53,6 +53,9 @@ function Contact() {
         <Typography variant="h3" mt={3} fontFamily={'Teko, sans-serif'} fontWeight={'medium'} align="center" mb={5}>
                 Deus abençoe e VEM COM A GENTE! 
             </Typography>
+            <Typography variant="h5" mt={3} fontFamily={'Teko, sans-serif'} fontWeight={'medium'} align="center" mb={5}>
+                <strong>Ah, e corre que as inscrições são limitadas, ok?</strong>
+            </Typography>
             <InscriptionLink />
         </>
     );
