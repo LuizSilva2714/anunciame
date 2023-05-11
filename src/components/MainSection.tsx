@@ -52,6 +52,9 @@ function MainSection() {
                 <Typography variant="h6" gutterBottom align="center" mt={1} fontFamily={'Teko, sans-serif'} fontWeight={'light'}>
                 Chave PIX: comunicacao@jupac.net
                 <GenericLink reference="https://nubank.com.br/cobranca/srUURsJLH08ednu" description="Clique aqui para pagar via Pix" />
+                <Typography variant="h5" mt={3} fontFamily={'Teko, sans-serif'} fontWeight={'medium'} align="center" mb={5}>
+                    <strong>Ei! Se o seu pensamento for "puts, não tenho dinheiro agora", não se preocupe! Você pode pagar até dia 09/07 ;-)</strong>
+                </Typography>
                 </Typography>
             </Grid>
         </Grid>
